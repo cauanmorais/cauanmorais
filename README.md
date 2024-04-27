@@ -1,11 +1,8 @@
 ### Olá! Eu sou o Cauan Morais 👋
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação. 
-</br>
+
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauanmorais&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauanmorais&layout=compact&theme=dracula)](https://github.com/cauanmorais/github-readme-stats)
 
  ##  Tecnologias que eu uso.
 <div style="display: inline_block">
