@@ -5,13 +5,9 @@
 </div>
 </div>
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
-<div><br />
-
-## My Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,figma,vscode,git,github&theme=dark" />
-
- ##  Tecnologias que eu uso.
+<div>
+  
+ ##  My Stack.
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -21,7 +17,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python&logoColor=white" />
 </div>
      
-##
+## Contact Me.
 <div> 
   <a href = "mailto:cauandejesus329@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cauan-morais-5a27a4207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
