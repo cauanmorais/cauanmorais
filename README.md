@@ -1,8 +1,7 @@
-### Olá! Eu sou o Cauan Morais 👋
 <img src="./.github/workflows/lineBar.png" width="100%" height="6px"/>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cauanmorais&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanmorais&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  <img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=cauanmorais&show_icons=true&include_all_commits=true&theme=tokyonight" /> 
+  <img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cauanmorais&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
 </div>
 <img src="./.github/workflows/lineBar.png" width="100%" height="6px"/>
@@ -10,12 +9,10 @@
   
  ##  My Stack.
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python&logoColor=white" />
 </div>
      
 ## Contact Me.
